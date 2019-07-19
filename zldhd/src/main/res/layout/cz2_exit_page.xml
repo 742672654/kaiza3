@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:background="@drawable/home_car_icon"
+android:layout_width="match_parent"
+android:layout_height="match_parent" >
+
+<ImageView
+    android:id="@+id/iv_entrance2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_car_icon"
+    android:contentDescription="@null"
+    android:scaleType="fitXY" />
+
+<RelativeLayout
+    android:id="@+id/ln_entrance2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+<ImageView
+    android:id="@+id/img_entrance2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+
+        android:layout_width="42dp"
+        android:layout_height="23dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="355dp"
+        android:layout_marginBottom="692dp"
+        android:background="#46BEFA"
+        android:text="出口"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/tv_exit_open_pole2"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/btn_selector"
+        android:text="抬杆"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/btn_photo22"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="41dp"
+        android:background="@drawable/btn_selector"
+        android:text="拍照"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+</RelativeLayout>
+
+</RelativeLayout>

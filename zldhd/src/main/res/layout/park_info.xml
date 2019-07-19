@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/maste"
+    android:orientation="vertical" >
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tv_idle_carport"
+            style="@style/font_size"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_weight="1.2"
+            android:textColor="@color/black"
+            android:text="@string/idle_carport"
+            android:textSize="15sp" />
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/tv_idle_carport_num"
+                android:layout_width="0dip"
+                android:layout_height="30sp"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:layout_weight="2.96"
+                android:background="@color/nfc_dialog"
+                android:paddingLeft="5dp"
+                android:paddingRight="1dp"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/btn_charge_number"
+                android:layout_width="1dip"
+                android:layout_height="30sp"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:layout_weight="1"
+                android:background="@drawable/bt_shape"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:paddingRight="1dp"
+                android:text="默认"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_work_data"
+            style="@style/font_size"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_weight="1.2"
+            android:text="@string/work_data"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_work_time"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="2.96"
+            android:background="@color/nfc_dialog"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_toll_collector"
+            style="@style/font_size"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_weight="1.2"
+            android:text="@string/toll_collector"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/btn_charge_people"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="2.96"
+            android:background="@drawable/switch_account"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_tcb_pay"
+            style="@style/font_size"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_weight="1.2"
+            android:text="@string/tcb_pay"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_tcb_pay_money"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="2.96"
+            android:background="@color/nfc_dialog"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_cash_pay"
+            style="@style/font_size"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_weight="1.2"
+            android:text="@string/cash_pay"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tv_cash_pay_money"
+                android:layout_width="0dip"
+                android:layout_height="30sp"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:layout_weight="2.96"
+                android:background="@color/nfc_dialog"
+                android:paddingLeft="5dp"
+                android:paddingRight="1dp"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/tv_show_money"
+                android:layout_width="1dip"
+                android:layout_height="30sp"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:layout_weight="1"
+                android:background="@drawable/bt_shape"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:paddingRight="1dp"
+                android:text="@string/show_money"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+

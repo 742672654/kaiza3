@@ -1,0 +1,14 @@
+Android NDK: WARNING: Unsupported source file extensions in E:\AndroidCLASS\kaiza\zldhd\libs\Android.mk for module YITIJI    
+Android NDK:   com_zhenlaidian_photo_DecodeManager.h tcpclient.h    
+[arm64-v8a] Clean          : BaiduMapSDK_v3_1_0-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : H264Decoder-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : MP4Recorder-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : MediaConverter-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : RTSP-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : RTSP1-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : RTSP_bak_2014-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : YITIJI [arm64-v8a]
+[arm64-v8a] Clean          : msc-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : stdc++ [arm64-v8a]
+[arm64-v8a] Clean          : tcpsdk-prebuilt [arm64-v8a]
+[arm64-v8a] Clean          : vztcpsdk_dynamic-prebuilt [arm64-v8a]

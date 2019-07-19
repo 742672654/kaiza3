@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg"
+    android:gravity="center"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:orientation="vertical" />
+
+
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="14"
+        android:orientation="vertical" >
+
+    <!-- visibility="gone"不可见不占用位置，版本号  -->
+    <EditText
+        android:id="@+id/cz_edition"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="15"
+        android:text="1.1"
+        android:visibility="invisible"
+        tools:text="1.1" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/login_button_shape"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dip"
+            android:background="@drawable/account"
+            android:padding="5dip"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/cz_login_account"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="请输入账号"
+            android:paddingLeft="10sp"
+            android:layout_marginLeft="7dp"
+            android:background="@color/nfc_dialog"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#868686"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/login_button_shape"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dip"
+            android:background="@drawable/password"
+            android:padding="5dip"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/cz_login_password"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="请输入密码"
+            android:paddingLeft="10sp"
+            android:layout_marginLeft="10dp"
+            android:background="@color/nfc_dialog"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#868686"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/login_button_shape"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dip"
+            android:background="@drawable/password"
+            android:padding="5dip"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/cz_login_ip"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="请输入IP地址"
+            android:text="https://parking.yilufa.net:10888"
+            android:paddingLeft="10sp"
+            android:layout_marginLeft="10dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:background="@color/nfc_dialog"
+            android:textColor="#868686"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="@drawable/login_button_shape">
+
+        <Button
+            android:id="@+id/cz_bt_longin_login"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/login_selector"
+            android:textColor="#ffffff"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="horizontal" />
+
+
+</LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:orientation="vertical" />
+</LinearLayout>

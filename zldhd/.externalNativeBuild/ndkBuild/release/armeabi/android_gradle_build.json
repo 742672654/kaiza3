@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "F:\\parkingos_android\\zldhd\\src\\main\\jni\\Android.mk",
+    "F:\\parkingos_android\\zldhd\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "F:\\android-ndk-r15c-windows-x86_64\\android-ndk-r15c\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\parkingos_android\\zldhd\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\parkingos_android\\zldhd\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dF:/parkingos_android/zldhd/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dF:\\parkingos_android\\zldhd\\build\\intermediates\\ndkBuild\\release\\lib NDK_DEBUG\u003d0 clean"
+  ],
+  "libraries": {
+    "YITIJI-release-armeabi": {
+      "buildCommand": "F:\\android-ndk-r15c-windows-x86_64\\android-ndk-r15c\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\parkingos_android\\zldhd\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\parkingos_android\\zldhd\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dF:/parkingos_android/zldhd/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dF:\\parkingos_android\\zldhd\\build\\intermediates\\ndkBuild\\release\\lib NDK_DEBUG\u003d0 F:/parkingos_android/zldhd/build/intermediates/ndkBuild/release/obj/local/armeabi/libYITIJI.so",
+      "toolchain": "toolchain-armeabi",
+      "abi": "armeabi",
+      "artifactName": "YITIJI",
+      "files": [
+        {
+          "src": "F:\\parkingos_android\\zldhd\\src\\main\\jni\\tcpclient.c",
+          "flags": "-gcc-toolchain F:/android-ndk-r15c-windows-x86_64/android-ndk-r15c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv5te-none-linux-androideabi15 -march\u003darmv5te -mtune\u003dxscale -msoft-float -mthumb -Os -DNDEBUG -IF:/parkingos_android/zldhd/src/main/jni -O3 -DRUN_IN_ANDROID -DANDROID -D__ANDROID_API__\u003d15 -Wa,--noexecstack -Wformat -Werror\u003dformat-security --sysroot F:/android-ndk-r15c-windows-x86_64/android-ndk-r15c/build//../sysroot -isystem F:/android-ndk-r15c-windows-x86_64/android-ndk-r15c/build//../sysroot/usr/include/arm-linux-androideabi"
+        },
+        {
+          "src": "F:\\parkingos_android\\zldhd\\src\\main\\jni\\yitiji.c",
+          "flags": "-gcc-toolchain F:/android-ndk-r15c-windows-x86_64/android-ndk-r15c/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv5te-none-linux-androideabi15 -march\u003darmv5te -mtune\u003dxscale -msoft-float -mthumb -Os -DNDEBUG -IF:/parkingos_android/zldhd/src/main/jni -O3 -DRUN_IN_ANDROID -DANDROID -D__ANDROID_API__\u003d15 -Wa,--noexecstack -Wformat -Werror\u003dformat-security --sysroot F:/android-ndk-r15c-windows-x86_64/android-ndk-r15c/build//../sysroot -isystem F:/android-ndk-r15c-windows-x86_64/android-ndk-r15c/build//../sysroot/usr/include/arm-linux-androideabi"
+        }
+      ],
+      "output": "F:\\parkingos_android\\zldhd\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi\\libYITIJI.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi": {
+      "cCompilerExecutable": "F:\\android-ndk-r15c-windows-x86_64\\android-ndk-r15c\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

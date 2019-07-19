@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "F:\\parkingos_android\\zldhd\\src\\main\\jni\\Android.mk",
+    "F:\\parkingos_android\\zldhd\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "F:\\android-ndk-r15c-windows-x86_64\\android-ndk-r15c\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\parkingos_android\\zldhd\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\parkingos_android\\zldhd\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dF:/parkingos_android/zldhd/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dF:\\parkingos_android\\zldhd\\build\\intermediates\\ndkBuild\\release\\lib NDK_DEBUG\u003d0 clean"
+  ],
+  "libraries": {
+    "YITIJI-release-armeabi": {
+      "artifactName": "YITIJI",
+      "buildCommand": "F:\\android-ndk-r15c-windows-x86_64\\android-ndk-r15c\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\parkingos_android\\zldhd\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\parkingos_android\\zldhd\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dF:/parkingos_android/zldhd/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dF:\\parkingos_android\\zldhd\\build\\intermediates\\ndkBuild\\release\\lib NDK_DEBUG\u003d0 F:/parkingos_android/zldhd/build/intermediates/ndkBuild/release/obj/local/armeabi/libYITIJI.so",
+      "abi": "armeabi",
+      "output": "F:\\parkingos_android\\zldhd\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi\\libYITIJI.so"
+    }
+  }
+}

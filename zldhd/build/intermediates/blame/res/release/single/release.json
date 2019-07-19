@@ -1,0 +1,2466 @@
+[
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_umeng_fb_slide_in_from_left.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\anim\\umeng_fb_slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_ptr_animation.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable\\ptr_animation.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz_login_activity.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz_login_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_list_item_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_keyboard_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\keyboard_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_recommend_warn_shape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\recommend_warn_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_yes_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\yes_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_relogin_activity.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\relogin_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout-v9_umeng_common_download_notification.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout-v9\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_login_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\login_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_hello_tcb.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\hello_tcb.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_account_droplist_item.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\account_droplist_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_entrance_page.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\entrance_page.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_see_list_pressed.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_see_list_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_setting_shape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\setting_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_btn_bg.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\btn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_more_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\more_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_shape_recommend.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\shape_recommend.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_park_record.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\park_record.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cesi2.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cesi2.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_shape_load_more.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\shape_load_more.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_bt_bgselect.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\bt_bgselect.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_indicator_bg_top.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_account.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\menu_change_my_info.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\menu\\change_my_info.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_workstation_type.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\workstation_type.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_selector_recharge_quickinput_bg.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\selector_recharge_quickinput_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_sb_free_thrumb_1.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\sb_free_thrumb_1.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_tick_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_tick_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_list_item_pressed.9.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_list_item_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_default_ptr_flip.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_small_login_bg.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\small_login_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_payment_detail_grayshape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\payment_detail_grayshape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_into_background_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\into_background_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_point_normal.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_point_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_btn_pressed.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\btn_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz5_pulltorefreshlistview.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz5_pulltorefreshlistview.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_dialog_background.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_slide_in_from_bottom.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_plate_sample.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\plate_sample.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cesi.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cesi.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_umeng_fb_slide_out_from_left.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\anim\\umeng_fb_slide_out_from_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_icon_32.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\app_icon_32.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_8.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_8.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_about.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_point_new.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_point_new.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_write_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_write_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_into_background_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\into_background_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_tick_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_tick_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_relative_layout.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\relative_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_yes_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\yes_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_current_order_shape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\current_order_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_loading.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_3.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\ic_3.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_viewpage.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-hdpi\\viewpage.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_number_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\number_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_back_selected.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_back_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_14.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_14.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_more_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\more_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_dialog_restart.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\dialog_restart.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_write_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_write_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_login_bg2.jpg.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\login_bg2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz_title.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz_title.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_gray_frame.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_gray_frame.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_3.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_3.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_input_car_number_police.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\input_car_number_police.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz_zld_new_layout.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz_zld_new_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_reward.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\reward.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout-v9_more_set_workstation.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout-v9\\more_set_workstation.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_tint_switch_thumb.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\raw_beep.ogg.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_default_ptr_flip.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_input_car_number_item.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\input_car_number_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_btn_big_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\btn_big_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_tick_selected.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_tick_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_seekbar_share.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\seekbar_share.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_4.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_4.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_config_new.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\config_new.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_submit_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_submit_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_small_billing.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\small_billing.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_update.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_pole_up_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\pole_up_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_zld_new_layout.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\zld_new_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_selector_recharge_quickinput_text.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\selector_recharge_quickinput_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_bt_delete_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\bt_delete_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_btn_big_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\btn_big_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_15.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_15.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_search_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\search_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\menu_leave.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\menu\\leave.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_5.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\ic_5.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_back_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_back_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_door_new.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\door_new.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_list_item.9.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_list_item.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_6.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_6.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz6_order_details.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz6_order_details.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_bt_bgnomal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\bt_bgnomal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_payment_detail_blueshape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\payment_detail_blueshape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_5.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_5.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_droplist_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\droplist_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_password.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\password.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz1_entrance_page.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz1_entrance_page.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_pulltorefreshlistview.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\pulltorefreshlistview.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_17.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_17.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_logo.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_thumb_1.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\thumb_1.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\menu_leave_actionbar.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\menu\\leave_actionbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_seekbar_share_thumb.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\seekbar_share_thumb.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_keyboard_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\keyboard_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_login_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\login_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_16.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_16.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_close_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\close_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_search_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\search_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_number_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\number_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\menu_current_order_search.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\menu\\current_order_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_progress_anim.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\progress_anim.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_6.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\ic_6.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_charge_finish_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\charge_finish_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_account_droplist.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\account_droplist.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_bt_delete_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\bt_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_takephotoselect.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\takephotoselect.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_more_set_workstation2.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\more_set_workstation2.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_exit_page.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\exit_page.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_see_list_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_see_list_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_common_gradient_green.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_bg_recharge_quickinput_selected.9.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\bg_recharge_quickinput_selected.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_play.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_pole_up_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\pole_up_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_input_car_number_number.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\input_car_number_number.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_bt_delete_pressed.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\bt_delete_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_into_background_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\into_background_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_title.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_back_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_back_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_login_bg.jpg.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\login_bg.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_serial_new.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\serial_new.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_shade_item.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\shade_item.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_viewpage.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xxhdpi\\viewpage.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz3_park_record.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz3_park_record.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_input_car_number_province.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\input_car_number_province.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_umeng_fb_slide_out_from_right.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\anim\\umeng_fb_slide_out_from_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cash_operation.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cash_operation.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_9.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_wheel_val.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_editbackgrund.9.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\editbackgrund.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_search_pressed.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\search_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_gradient_orange.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_gradient_orange.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_charge_finish_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\charge_finish_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_viewpage.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\viewpage.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_common_gradient_red.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_7.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_7.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\raw_voice_warn.mp3.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\raw\\voice_warn.mp3"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_login_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\login_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_umeng_fb_slide_in_from_right.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\anim\\umeng_fb_slide_in_from_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\xml_nfc_tech_filter.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\xml\\nfc_tech_filter.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_yuandian.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\yuandian.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_login_button_shape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\login_button_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_stop.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\stop.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\menu_history_only_lost_order.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\menu\\history_only_lost_order.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_trigger_new.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\trigger_new.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_linelocal_dialog_restart.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\linelocal_dialog_restart.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_title.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\title.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_btn_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\btn_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_4.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\ic_4.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_btn_big_pressed.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\btn_big_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_top_banner.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_top_banner.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_switch_thumb.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_history_order_today_button_shape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\history_order_today_button_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_big_billing.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\big_billing.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz4_park_info.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz4_park_info.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_vedioset.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\vedioset.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_pay_before_layout.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\pay_before_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_park_info.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\park_info.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_switch_account_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\switch_account_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_default_ptr_flip.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_2.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_2.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_common_gradient_orange.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_car_bigsmall_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\car_bigsmall_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_bt_shape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\bt_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_2.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\ic_2.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_dialog_reward.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\dialog_reward.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_13.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_13.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz7_cash_operation.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz7_cash_operation.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_addaccount.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\addaccount.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_config.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\config.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_stationdialog.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\stationdialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_gv_province_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\gv_province_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_slide_in_from_top.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_1.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\ic_1.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_bg_andorid.jpg.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\bg_andorid.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_home_car_icon.jpg.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\home_car_icon.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_btn_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_icon.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_pole_up_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\pole_up_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_see_list_normal.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_see_list_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_keyboard_page_gridview_zone.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\keyboard_page_gridview_zone.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_1.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_1.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_network_progressbar_right.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\network_progressbar_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_logo.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_12.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_12.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_car_detail_item.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\car_detail_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_10.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_10.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_11.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_11.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_money_setting_shape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\money_setting_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_pay_finish.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\pay_finish.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_number_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\number_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_gradient_green.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_gradient_green.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_charge_finish_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\charge_finish_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_yes_select.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\yes_select.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_background_web.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\background_web.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_monthusercycle.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\monthusercycle.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_recommend_code_shape.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\recommend_code_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ptr_img_0.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-hdpi-v4\\ptr_img_0.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_switch_account.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\switch_account.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_more_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\more_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_hello_activity.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\hello_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_monthusersec.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-hdpi\\monthusersec.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_work_station.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\work_station.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_slide_out_to_bottom.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_bg_recharge_quickinput_nomal.9.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\bg_recharge_quickinput_nomal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_discount_page.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\discount_page.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_btn_bg_selector.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_btn_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_order_details.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\order_details.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_monthuser.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-hdpi\\monthuser.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_shape_recommend_edittext.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\shape_recommend_edittext.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_shape_nfc_finish_button.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\shape_nfc_finish_button.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_monthuser_cuofeng.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-xhdpi\\monthuser_cuofeng.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_umeng_fb_write_pressed.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable\\umeng_fb_write_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_viewpage.png.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\drawable-mdpi\\viewpage.png"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\anim_slide_out_to_top.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\library\\build\\intermediates\\packaged_res\\release\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\res\\merged\\release\\layout_cz2_exit_page.xml.flat",
+        "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\layout\\cz2_exit_page.xml"
+    }
+]

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/maste"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center" >
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="30sp"
+            android:layout_marginLeft="5dip"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:text="@string/car_image" />
+
+        <ImageView
+            android:id="@+id/iv_car_image"
+            android:layout_width="0dip"
+            android:layout_height="45sp"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="3"
+            android:background="@drawable/plate_sample"
+            android:contentDescription="@null"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center" >
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="45sp"
+            android:layout_marginLeft="5dip"
+            android:text="@string/car_num"
+            android:textColor="@color/black"
+            android:textSize="15sp"   />
+
+        <EditText
+            android:id="@+id/et_car_num"
+            android:layout_height="30sp"
+            android:layout_marginLeft="5dip"
+            android:text="@string/park_duration_content"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:layout_width="0dip"
+            android:background="@color/nfc_dialog"
+            android:layout_marginRight="5dip"
+            android:layout_weight="2.96"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"/>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:gravity="center"
+                android:id="@+id/tv_toll_collector"
+                android:layout_width="wrap_content"
+                android:layout_height="45sp"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dip"
+                android:text="@string/toll_cartype"
+                android:textSize="15sp"/>
+
+            <Button
+                android:id="@+id/btn_car_type"
+                android:layout_width="0dip"
+                android:layout_height="30sp"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:layout_weight="2.96"
+                android:background="@drawable/switch_account"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:paddingRight="1dp"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center" >
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="45sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="5dip"
+            android:text="@string/toll_cartype"
+            android:textSize="15sp"/>
+            android:text="@string/car_type" />
+
+        <EditText
+            android:id="@+id/tv_account_type"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="2.96"
+            android:background="@color/nfc_dialog"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"
+            android:text="@string/park_duration_content"
+            android:textColor="@color/black"
+            android:textSize="15sp"  />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="45sp"
+            android:layout_marginLeft="5dip"
+            android:textColor="@color/black"
+            android:text="@string/entrance_time"
+            android:textSize="15sp"/>
+
+        <EditText
+            android:id="@+id/tv_entrance_time"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="2.96"
+            android:background="@color/nfc_dialog"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"
+            android:text="@string/park_duration_content"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="15sp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="45sp"
+            android:layout_marginLeft="5dip"
+            android:text="@string/park_duration"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/tv_park_duration"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="2.96"
+            android:background="@color/nfc_dialog"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"
+            android:text="@string/park_duration_content"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="15sp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_clear_order"
+            android:layout_width="wrap_content"
+            android:layout_height="28sp"
+            android:layout_gravity="center"
+            android:background="@drawable/bt_shape"
+            android:text=" 结算订单 "
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+</LinearLayout>
+</LinearLayout>

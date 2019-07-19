@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,40,41,46,51,56,58,60,61,62,115,169",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2795,2898,3306,3726,4148,4255,4384,4455,4538,8477,12559",
+                        "endLines": "7,13,19,25,31,37,38,39,40,45,50,55,57,59,60,61,114,168,169",
+                        "endColumns": "12,12,12,12,12,12,88,100,102,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2790,2893,3301,3721,4143,4250,4379,4450,4533,8472,12554,12645"
+                    },
+                    "to": {
+                        "startLines": "4,10,16,22,28,34,40,41,42,43,48,53,58,60,62,63,64,117,171",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "143,562,987,1415,1841,2268,2693,2782,2883,2986,3394,3814,4236,4343,4472,4543,4626,8565,12647",
+                        "endLines": "9,15,21,27,33,39,40,41,42,47,52,57,59,61,62,63,116,170,171",
+                        "endColumns": "12,12,12,12,12,12,88,100,102,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "557,982,1410,1836,2263,2688,2777,2878,2981,3389,3809,4231,4338,4467,4538,4621,8560,12642,12733"
+                    }
+                },
+                {
+                    "source": "E:\\AndroidCLASS\\kaiza\\zldhd\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "9",
+                        "startColumns": "0",
+                        "startOffsets": "310",
+                        "endLines": "10",
+                        "endColumns": "8",
+                        "endOffsets": "393"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}

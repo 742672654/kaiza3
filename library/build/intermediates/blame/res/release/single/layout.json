@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidClass\\kaiza3\\library\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\AndroidClass\\kaiza3\\library\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\AndroidClass\\kaiza3\\library\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\AndroidClass\\kaiza3\\library\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\AndroidClass\\kaiza3\\library\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "D:\\AndroidClass\\kaiza3\\library\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]

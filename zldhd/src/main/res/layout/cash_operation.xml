@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/maste"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="5" >
+
+        <RelativeLayout
+            android:id="@+id/rl_cost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_cost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginTop="5dip"
+                android:text="@string/park_cost"
+                android:textColor="@color/black"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/tv_park_cost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_cost"
+                android:layout_marginLeft="20dip"
+                android:text="@string/park_cost_content"
+                android:textColor="@color/orange"
+                android:textSize="40sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_rmb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/tv_park_cost"
+                android:layout_alignBottom="@+id/tv_park_cost"
+                android:layout_toRightOf="@+id/tv_park_cost"
+                android:text="@string/rmb"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+        </RelativeLayout>
+ 
+        <RelativeLayout
+            android:id="@+id/rl_pay_before"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rl_cost"
+            android:visibility="gone" >
+
+            <include layout="@layout/pay_before_layout" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_mobile_payment"
+            android:layout_width="120dip"
+            android:layout_height="120dip"
+            android:layout_below="@+id/rl_cost"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/pay_finish"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="200dip"
+    	android:background="@color/maste"
+    	android:layout_height="0dp"
+    	android:layout_gravity="center"
+        android:layout_weight="2"
+        android:orientation="horizontal" >
+        <Button
+            android:id="@+id/btn_free"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="left"
+            android:background="@drawable/bt_shape"
+            android:text="免费"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2" />
+
+        <Button
+            android:id="@+id/btn_discount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="right"
+            android:background="@drawable/bt_shape"
+            android:text="减免"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dip"
+        android:background="@color/maste"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_gravity="center" >
+        <Button
+            android:id="@+id/btn_charge_finish"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="left"
+            android:background="@drawable/bt_shape"
+            android:text="收费完成"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+
+</LinearLayout>

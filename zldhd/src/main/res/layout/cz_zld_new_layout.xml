@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <fragment
+        android:id="@+id/title_fragment2"
+        android:name="com.cz.fragment.TitleFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="2dip"
+        android:layout_marginTop="3dip"
+        android:layout_marginRight="2dip"
+        android:layout_weight="8"
+        android:orientation="horizontal">
+
+
+        <fragment
+            android:id="@+id/entrance_fragment2"
+            android:name="com.cz.fragment.EntranceFragment1"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="2" />
+
+        <fragment
+            android:id="@+id/exit_fragment2"
+            android:name="com.cz.fragment.ExitFragment2"
+            android:layout_marginLeft="2dip"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="2" />
+
+        <fragment
+            android:id="@+id/park_record_fragment2"
+            android:name="com.cz.fragment.ParkrecordFragment3"
+            android:layout_marginLeft="2dip"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="2" />
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_marginLeft="2dip"
+            android:layout_marginRight="2dip"
+            android:layout_marginTop="3dip"
+            android:layout_weight="11"
+            android:orientation="horizontal" >
+
+            <fragment
+                android:id="@+id/park_info_fragment2"
+                android:name="com.cz.fragment.ParkinfoFragment4"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_marginRight="1dip"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="1dip"
+                android:layout_marginRight="2dip"
+                android:layout_weight="2" >
+
+
+                <fragment
+                    android:id="@+id/order_list_fragment2"
+                    android:name="com.cz.fragment.OrderListFragment5"
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="1dip"
+                    android:layout_weight="1" />
+
+                <fragment
+                    android:id="@+id/order_details_fragment2"
+                    android:name="com.cz.fragment.OrderDetailsFragment6"
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="1dip"
+                    android:layout_marginRight="1dip"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <fragment
+                android:id="@+id/cash_fragment2"
+                android:name="com.cz.fragment.CashFragment7"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_marginRight="0dip"
+                android:layout_weight="1"
+                />
+    </LinearLayout>
+
+</LinearLayout>

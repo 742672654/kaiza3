@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:1-8:12
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:4:5-71
+	android:name
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:4:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml:6:22-69
+uses-sdk
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidClass\kaiza3\library\src\main\AndroidManifest.xml

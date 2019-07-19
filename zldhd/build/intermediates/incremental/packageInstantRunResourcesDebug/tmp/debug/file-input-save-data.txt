@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Apr 02 10:19:54 CST 2019
+1.base=E\:\\AndroidCLASS\\zldhb_car\\zldhd\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.path=Font/Roboto/Roboto-Black.ttf
+0.baseType=DIRECTORY
+2.base=E\:\\AndroidCLASS\\zldhb_car\\zldhd\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=app_icon.png
+0.set=ASSET
+0.base=E\:\\AndroidCLASS\\zldhb_car\\zldhd\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.baseType=DIRECTORY
+1.path=ShareSDK.xml

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidCLASS\\kaiza\\zldhd\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaoduo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\08350899557d319704dd33a0fe409b95\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

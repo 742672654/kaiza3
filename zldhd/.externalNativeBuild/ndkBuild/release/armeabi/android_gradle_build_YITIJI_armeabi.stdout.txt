@@ -1,0 +1,3 @@
+Android NDK: WARNING: Unsupported source file extensions in F:\parkingos_android\zldhd\src\main\jni\Android.mk for module YITIJI    
+Android NDK:   com_zhenlaidian_photo_DecodeManager.h tcpclient.h    
+make: `F:/parkingos_android/zldhd/build/intermediates/ndkBuild/release/obj/local/armeabi/libYITIJI.so' is up to date.

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_current_order_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/list_bg_gray" >
+
+    <TextView
+        android:id="@+id/tv_car_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="adasdads"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/tv_enter_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:layout_alignParentRight="true"
+        android:text="adasdads"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:id="@+id/iv_monthuser"
+        android:layout_width="wrap_content"
+        android:layout_height="17sp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/monthuser"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+    <ImageView
+        android:id="@+id/iv_monthusersec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/monthusersec"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+    <!-- 月卡第二辆车monthuser -->
+
+    <ImageView
+        android:id="@+id/iv_monthusercycle"
+        android:layout_width="wrap_content"
+        android:layout_height="17sp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/monthuser_cuofeng"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+</RelativeLayout>
